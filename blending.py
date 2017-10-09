@@ -1,5 +1,3 @@
-# This program performs simple image pasting
-# A source image is pasted into a target image
 import sys
 import os
 from PIL import Image
